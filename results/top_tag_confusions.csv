@@ -1,0 +1,16 @@
+human,model,count,example words
+NN,JJ,48,"preschool, illicit, simple, behaviour, white"
+NNP,NN,44,"MW, Promotion, Campus, Consultant, Programme"
+VBD,VBN,32,"conducted, seated, connected, aimed, involved"
+VBG,NN,28,"learning, trafficking, understanding, teaching, training"
+JJ,NN,22,"solar, official, crystal, consultant, sedentary"
+VBP,VB,20,"learn, sleep, watch, receive, contribute"
+NN,NNP,20,"Sadewmi, Drug, Alongside, Iran, Energy"
+VBD,JJ,18,"integrated, ground-mounted, extended, eye-related, smuggled"
+JJ,NNP,17,"National, Northern, Medical, General, Western"
+NNS,VBZ,16,"routes, girls, leaves, programmes, introduces"
+VBN,VBD,14,"raised, identified, seized, strengthened, taught"
+NNP,JJ,14,"A-Level, Asian, Ordinary, Postal, English"
+$,NNP,10,Rs.
+NNP,NNS,9,"Examinations, Results, Schools, Games, Championships"
+DT,JJ,8,"such, several, few"

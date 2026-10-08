@@ -1,0 +1,25 @@
+Daily Mirror (https://www.dailymirror.lk) articles used for Task 2, accessed 27 September 2026.
+Sentence ranges refer to sent_id in task2_150_tagged_sentences.csv.
+
+ 1. Excessive screen use among preschool children (health survey)        sent 1-24
+    URL: https://www.dailymirror.lk/breaking-news/64-of-pre-schoolers-get-30-minutes-of-daily-screen-time-in-SL-raising-concerns-Survey/108-351177
+ 2. Lanka Sathosa reduces prices of six essential food items             sent 25-28
+    URL: https://www.dailymirror.lk/breaking-news/Lanka-Sathosa-reduces-prices-of-six-essential-food-items/108-351178
+ 3. Government dismisses claims of curtailing rooftop solar power        sent 29-34
+    URL: https://www.dailymirror.lk/breaking-news/No-move-to-curtail-rooftop-solar-Energy-Minister/108-351198
+ 4. Sri Lanka Navy maritime anti-narcotics operations                    sent 35-45
+    URL: https://www.dailymirror.lk/breaking-news/Northern-Sea-Arabian-Sea-used-as-key-drug-smuggling-routes-to-Sri-Lanka/108-351175
+ 5. Parliament: exchange between SJB MP and Leader of the House          sent 46-52
+    URL: https://www.dailymirror.lk/breaking-news/I-only-meant-a-division-in-society-Bimal-says-later-in-verbal-clash-with-Dayasiri/108-351172
+ 6. GCE O/L rescrutiny results released                                  sent 53-55
+    URL: https://www.dailymirror.lk/breaking-news/GCE-OL-rescrutiny-results-released/108-351196
+ 7. Lyceum Campus Pre-Medical Foundation Certificate Course (feature)    sent 56-91
+    URL: https://edu.dailymirror.lk/articles/news/2248/New-Pre-Medical-Foundation-Course-to-Help-Students-Enter-Medical-School-with-Confidence
+ 8. Iran proposes deal to reopen Strait of Hormuz (BBC, republished)     sent 92-127
+    URL: https://www.dailymirror.lk/international/Iran-offers-US-deal-to-reopen-Strait-of-Hormuz-in-seven-days/107-351191
+ 9. NBRO issues landslide evacuation warnings                            sent 128-141
+    URL: https://www.dailymirror.lk/breaking-news/Red-landslide-warnings-issued-for-several-districts/108-351166
+10. Baddegama gymnast Sadewmi Shehasna at Asian Junior Championships     sent 142-147
+    URL: https://www.dailymirror.lk/sports/Gymnast-Sadewmi-for-Asian-junior-championship/322-351157
+11. Harry Potter play producer says cost of living made two-part show impossible   sent 148-150
+    URL: https://www.dailymirror.lk/international/Harry-Potter-play-producer-says-cost-of-living-made-two-part-show-impossible/107-351078

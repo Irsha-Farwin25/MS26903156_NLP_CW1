@@ -1,0 +1,20 @@
+,value
+tokens,4237.0
+sentences,150.0
+token accuracy,0.8980410667925419
+accuracy on known words,0.9168322452455294
+accuracy on unknown words,0.8053221288515406
+unknown-word rate,0.16851545905121548
+macro precision,0.74622470574283
+macro recall,0.7517632327284526
+macro F1,0.7439362752476161
+weighted F1,0.899448916527546
+Cohen's kappa (model vs human),0.8900914379496974
+sentences fully correct,0.12
+PCFG full-parse coverage,0.9866666666666667
+mean PCFG fragments,1.0666666666666667
+mean structure F1 (model tags vs human tags),0.7586787664787685
+mean word perplexity,536.5331168820593
+median word perplexity,484.0745221368028
+mean tag-sequence perplexity,11.455070658139453
+mean PCFG perplexity,16.453847105299147
